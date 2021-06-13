@@ -9,6 +9,6 @@ This repository is about my Entrepreneurship's final project. This project is ba
 </p>
 
 ## Where AVOADO's name come from?
-One of the Effectuation's principles is "Bird in Hand". Broadly speaking, it posits that effectual entrepreneurs start by looking at their resources so that they can imagine a number of possible futures they can create instead of having a fixed end in their mind. In particular, they try to capture three aspects: "who am I?", "who I know?" and "whom I know?". Curiously, it may possible that someone can answer easily these questions and, at the same time, they can't to imagine what can be done with them. This state of confusion and the principle's name motivated me to name the system as "AVOADO" (In portuguese, one of the meanings of this word is confusion). 
+One of the Effectuation's principles is "Bird in Hand". Broadly speaking, it posits that effectual entrepreneurs start by looking at their resources so that they can imagine a number of possible futures they can create instead of having a fixed end in their mind. In particular, they try to capture three aspects: "who am I?", "who I know?" and "whom I know?". Curiously, it may be possible that someone can answer easily these questions and, at the same time, they can't to imagine what can be done with them. This state of confusion and the principle's name motivated me to name the system as "AVOADO" (In portuguese, one of the meanings of this word is confusion). 
 
 In Construction...
