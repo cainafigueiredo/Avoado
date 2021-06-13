@@ -1,0 +1,9 @@
+ █████╗ ██╗   ██╗ ██████╗  █████╗ ██████╗  ██████╗ 
+██╔══██╗██║   ██║██╔═══██╗██╔══██╗██╔══██╗██╔═══██╗
+███████║██║   ██║██║   ██║███████║██║  ██║██║   ██║
+██╔══██║╚██╗ ██╔╝██║   ██║██╔══██║██║  ██║██║   ██║
+██║  ██║ ╚████╔╝ ╚██████╔╝██║  ██║██████╔╝╚██████╔╝
+╚═╝  ╚═╝  ╚═══╝   ╚═════╝ ╚═╝  ╚═╝╚═════╝  ╚═════╝ 
+        Desenvolvido por: Cainã Figueiredo Pereira
+
+Seja bem-vindo ao Avoado, o sistema ideal para você que possui os meios necessários para dar início à sua própria jornada empreendedora, porém não sabe como começar!
